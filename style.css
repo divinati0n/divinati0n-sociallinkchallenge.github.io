@@ -1,0 +1,95 @@
+* {
+    font-family: Outfit;
+    color: white; 
+    background-color: rgb(19, 19, 19); }
+.bgbox {
+    background-color: rgb(27, 27, 27);
+    width: 170px;
+    height: 350px; 
+    padding: 100px;
+    border-radius: 10px;
+    margin: 0 auto; 
+    text-align: center;
+    position: relative;
+    top: 80px; }
+.avatar {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 40px; 
+    left: 140px;
+    background: none; }
+.name {
+    font-size: 26px;
+    position: absolute;
+    top: 140px;
+    background: none; }
+.loc {
+    font-size: 12px;
+    position: absolute;
+    top: 175px;
+    left: 120px;
+    color: rgb(226, 255, 97); 
+    background: none; }
+.info {
+    font-size: 12px;
+    position: absolute;
+    top: 210px;
+    left: 80px;
+    background: none; }
+.Github {
+    background-color: rgb(45, 45, 45);
+    font-size: 14px;
+    position: absolute;
+    width: 290px;
+    top: 240px;
+    left: 30px;
+    margin: 10px;
+    padding: 10px; 
+    border-radius: 10px; 
+    box-sizing: border-box; }
+.FrontendMentor {
+    background-color: rgb(45, 45, 45);
+    font-size: 14px;
+    position: absolute;
+    width: 290px;
+    top: 295px;
+    left: 30px;
+    margin: 10px;
+    padding: 10px; 
+    border-radius: 10px; 
+    box-sizing: border-box; }
+.LinkedIn {
+    background-color: rgb(45, 45, 45);
+    font-size: 14px;
+    position: absolute;
+    width: 290px;
+    top: 350px;
+    left: 30px;
+    margin: 10px;
+    padding: 10px; 
+    border-radius: 10px; 
+    box-sizing: border-box; }
+.Twitter {
+    background-color: rgb(45, 45, 45);
+    font-size: 14px;
+    position: absolute;
+    width: 290px;
+    top: 405px;
+    left: 30px;
+    margin: 10px;
+    padding: 10px; 
+    border-radius: 10px; 
+    box-sizing: border-box; }
+.Instagram {
+    background-color: rgb(45, 45, 45);
+    font-size: 14px;
+    position: absolute;
+    width: 290px;
+    top: 460px;
+    left: 30px;
+    margin: 10px;
+    padding: 10px; 
+    border-radius: 10px; 
+    box-sizing: border-box; }
